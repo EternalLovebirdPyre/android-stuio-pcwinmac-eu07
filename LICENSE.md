@@ -1,4 +1,4 @@
-# 
+# Inteligente Android Studio modelos para Mac OS | Ultimato Android Studio modelos para PC Windows. Com ferramentas de build e gerenciador de projetos — otimizado para máximo desempenho em cada plataforma.
 
 
 
